@@ -9,3 +9,4 @@ NICK IS NOOB
 # here is another
 # Brought to you by Nick
 
+EASY WAY

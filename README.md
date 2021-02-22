@@ -10,3 +10,7 @@ NICK IS NOOB
 # Brought to you by Nick
 
 EASY WAY
+
+#holla
+#sqalla
+#dolla
